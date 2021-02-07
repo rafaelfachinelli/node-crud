@@ -98,39 +98,6 @@ Open the command prompt in the project directory, open the [`example/`](example/
 
 > ⚠️ The development server will start on port:PORT - Access <http://localhost:PORT>
 
-### :iphone: **Mobile**
-
-Open the command prompt in the project directory, open the [`example/`](example/) folder and execute the following commands:
-
-<details>
-  <summary><i>with <b>npm</b></i></summary>
-  
-  ```bash
-  # Install dependencies
-  $ npm install
-
-  # Start development server
-  $ npm start
-  ```
-  
-</details>
-
-<details>
-  <summary><i>with <b>yarn</b></i></summary>
-  
-  ```bash
-  # Install dependencies
-  $ yarn
-
-  # Start development server
-  $ yarn start
-
-  ```
-
-</details>
-
-> ⚠️ The development server will start on port:3000 - Access <http://localhost:3000>
-
 ### :file_cabinet: **Server**
 
 Open the command prompt in the project directory, open the [`example/`](example/) folder and execute the following commands:
