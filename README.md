@@ -174,7 +174,7 @@ The following tools is used to build this project:
 <div align="center">
 
 |:globe_with_meridians: Front End|:file_cabinet: Back End|
-|:---:|:---:|:---:|
+|:---:|:---:|
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[Node](https://nodejs.org/en/)|
 |[Bootstrap 4](https://getbootstrap.com)|[MongoDB](https://www.mongodb.com)|
 |[EJS](https://ejs.co)|[bcrypt](https://www.npmjs.com/package/bcrypt)|
