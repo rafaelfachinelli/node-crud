@@ -3,12 +3,12 @@
 </p>
 
 <p align="center"> 
-  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/node-crud?color=3498db&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/node-crud?color=3498db&style=for-the-badge">
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/node-crud?color=339933&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/node-crud?color=339933&style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
-    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-%3498db?color=3498db&style=for-the-badge">
+    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/Developer-Rafael_Fachinelli-%339933?color=339933&style=for-the-badge">
   </a>
-  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/node-crud?color=3498db&style=for-the-badge"/>
+  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/node-crud?color=339933&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -195,9 +195,9 @@ The following tools is used to build this project:
 
 Developed with ❤️ by Rafael Fachinelli 👋🏽 Contact me!
 
-[![Linkedin Badge](https://img.shields.io/badge/-AUTHOR_NAME-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AUTHORNAME)
-[![Github Badge](https://img.shields.io/badge/-AUTHORNAME-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/AUTHORUSERNAME)
-[![Outlook Badge](https://img.shields.io/badge/-AUTHOREMAIL-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:AUTHOREMAIL)
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelfachinelli)
+[![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/rafaelfachinelli)
+[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rafael.fachinelli@fatec.sp.gov.br)
 
 </div>
 
@@ -206,7 +206,7 @@ Developed with ❤️ by Rafael Fachinelli 👋🏽 Contact me!
 
 <div align="center">
 
-Copyright © 2021 [NAME](https://github.com/USERNAME).<br />
+Copyright © 2021 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
 This project is licensed by [MIT](./LICENSE).
 
 </div>
