@@ -130,7 +130,8 @@ Open the command prompt in the project directory, open the [`example/`](example/
 </details>
 
 > ⚠️ The development server will start on port:3000 - Access <http://localhost:3000>
-> ⚠️ It is necessary to create the file '.env' with the key 'CONNECTIONSTRING' in the folder [`root`](./) of the system. Example: CONNECTIONSTRING=mongodb+srv://USER:PASSWORD@cluster0.93su1.mongodb.net/DATABASENAME?AuthSource=admin
+> ⚠️ It is necessary to create the file '.env' with the key 'CONNECTIONSTRING' in the folder [`root`](./) of the system.
+> Example: CONNECTIONSTRING=mongodb+srv://USER:PASSWORD@cluster0.93su1.mongodb.net/DATABASENAME?AuthSource=admin
 
 ---
 ## :hammer_and_wrench: **Technologies**
