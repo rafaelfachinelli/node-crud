@@ -178,7 +178,8 @@ The following tools is used to build this project:
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[Node](https://nodejs.org/en/)|
 |[Bootstrap 4](https://getbootstrap.com)|[MongoDB](https://www.mongodb.com)|
 |[EJS](https://ejs.co)|[bcrypt](https://www.npmjs.com/package/bcrypt)|
-||[Validator](https://www.npmjs.com/package/validator)|[Helmet](https://helmetjs.github.io)|
+||[Validator](https://www.npmjs.com/package/validator)|
+||[Helmet](https://helmetjs.github.io)|
 ||[csurf](https://www.npmjs.com/package/csurf)|
 
 </div>
