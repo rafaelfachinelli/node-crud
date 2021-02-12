@@ -77,7 +77,7 @@ Open the command prompt in the project directory, open the [`example/`](example/
   $ npm install
 
   # Start development server
-  $ npm start
+  $ npm run dev
   ```
   
 </details>
@@ -90,7 +90,7 @@ Open the command prompt in the project directory, open the [`example/`](example/
   $ yarn
 
   # Start development server
-  $ yarn start
+  $ yarn dev
 
   ```
 
@@ -129,42 +129,8 @@ Open the command prompt in the project directory, open the [`example/`](example/
 
 </details>
 
-<details>
-<summary>:dizzy: <b>API Routes</b></summary>
-
-<details>
-<summary>[POST] <b>Create OBJECT</b></summary>
-/api/create/OBJECT
-</details>
-
-<details>
-<summary>[PUT] <b>Update OBJECT</b></summary>
-/api/update/OBJECT/:id
-</details>
-
-<details>
-<summary>[GET] <b>Get OBJECT</b></summary>
-/api/view/OBJECT/:id
-</details>
-  
-<details>
-<summary>[GET] <b>Get All OBJECTS</b></summary>
-/api/view/OBJECTS
-</details>
-
-<details>
-<summary>[DEL] <b>Delete OBJECT</b></summary>
-/api/delete/OBJECT/:id
-</details>
-
-<details>
-<summary>[DEL] <b>Delete All OBJECTS</b></summary>
-/api/delete/OBJECTS
-</details>
-
-</details>
-
 > ⚠️ The development server will start on port:3000 - Access <http://localhost:3000>
+> ⚠️ It is necessary to create the file '.env' with the key 'CONNECTIONSTRING' in the folder [`root`](./) of the system. Example: CONNECTIONSTRING=mongodb+srv://USER:PASSWORD@cluster0.93su1.mongodb.net/DATABASENAME?AuthSource=admin
 
 ---
 ## :hammer_and_wrench: **Technologies**
