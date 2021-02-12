@@ -65,7 +65,7 @@ Description about this project.
 
 To run the project you need to clone or [`download`](https://github.com/USERNAME/REPOSITORY/archive/main.zip) this repository, have the Node Package Manager ([`NPM`](https://www.npmjs.com/get-npm)) or the YARN Package Manager installed ([`YARN`](https://yarnpkg.com/getting-started)).
 
-### :globe_with_meridians: **Web**
+### :globe_with_meridians: **Fron End**
 
 Open the command prompt in the project directory, open the [`example/`](example/) folder and execute the following commands:
 
@@ -96,9 +96,9 @@ Open the command prompt in the project directory, open the [`example/`](example/
 
 </details>
 
-> ⚠️ The development server will start on port:PORT - Access <http://localhost:PORT>
+> ⚠️ It is necessary to run the server in parallel to test the frontend. 
 
-### :file_cabinet: **Server**
+### :file_cabinet: **Back End**
 
 Open the command prompt in the project directory, open the [`example/`](example/) folder and execute the following commands:
 
