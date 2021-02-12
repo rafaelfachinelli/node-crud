@@ -100,7 +100,7 @@ Open the command prompt in the project directory, open the [`root`](/) folder an
 
 ### :file_cabinet: **Back End**
 
-Open the command prompt in the project directory, open the [`root/`](/) folder and execute the following commands:
+Open the command prompt in the project directory, open the [`root`](/) folder and execute the following commands:
 
 <details>
   <summary><i>with <b>npm</b></i></summary>
